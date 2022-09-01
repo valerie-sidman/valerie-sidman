@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZG719ozZxGuThHBckn/giphy.gif" />
-</div>
+![banner](https://user-images.githubusercontent.com/62873844/187871721-1dc42f2f-cc0a-4ea0-9d01-de96a5db47fc.png)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=valerie-sidman&style=flat-square&color=B87700" alt=""/>
